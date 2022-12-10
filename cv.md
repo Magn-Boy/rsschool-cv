@@ -24,3 +24,8 @@ return n;
 }
 console.log(slovo(nthChar));
 ```
+# Experience
+# Education
+University: MITSO (Software Engineer-Economist) 
+# English 
+Knowledge of English: A1-A2
