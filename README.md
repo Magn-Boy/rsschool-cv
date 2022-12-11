@@ -1,1 +1,1 @@
-https://Magn-Boy.github.io/rsschool-cv/cv
+https://Magn-Boy1.github.io/rsschool-cv/cv
